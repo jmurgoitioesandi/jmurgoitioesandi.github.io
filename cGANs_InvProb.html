@@ -100,14 +100,18 @@
 									<header>
 										<h2>Conditional GANs for ultrasound imaging of the optic nerve head</h2>
 										<p>
-											We are using conditional GANs to obtain the biomechanical properties of the optic nerve head (ONH) by
+											We are using conditional GANs (cGANs) to obtain the biomechanical properties of the optic nerve head (ONH) by
 											measuring the propagation of shear waves with an ultrasound transducer.
 										</p>
 									</header>
 									<p>
 										Glaucoma is the leading cause of irreversible vision loss in the world and it 
-										is believed to occur due to damage in the optic nerve head (see Figure 1 left).
-										Unfortunately, current tools do not allow to measure the
+										is believed to occur due to damage in the optic nerve head (ONH, see Figure 1 left).
+										Unfortunately, current tools do not allow to measure the mechanical properties of 
+										the ONH. To overcome this, we are developing a computational method based on deep 
+										learning that, combined with state-of-the-art shear wave elastography (SWEI) technology 
+										(see Figure 1 right), would allow to accurately obtain the biomechanical properties of the 
+										ONH and adjacent tissues.
 									</p>
 									<img src="images/cGANs_Fig1.jpg" alt="" />
 									<p>
@@ -115,15 +119,21 @@
 										ultrasonic elastography of the posterior sclera.
 									</p>
 									<p>
-										Write more text here.
+										In SWEI, we use measured displacements to estimate the biomechanical properties of 
+										physiological tissues. Hence, we need to solve the inverse elasticity problem, which we 
+										model using the Helmholtz equation. Thus, the computational method will map the real and 
+										imaginary part of the shear wave amplitudes at a given frequency to the shear modulus 
+										distribution of the ONH (see Figure for an example of inputs and outputs of the method).
 									</p>
 									<img src="images/cGANs_Fig2.jpg" alt="" />
 									<p>
 										Figure 2: Inputs (left) and output (right) of the cGAN. The figures on the left present the real and imaginary parts 
-										of the shear wave amplitudes and the figure on the right presents the shear modulus distribution.
+										of the shear wave amplitudes and the figure on the right presents the shear modulus distribution. These samples were 
+										generated using a simplified geometry.
 									</p>
 									<p>
-										Write more text here.
+										The computational method that we are studing consists of two main parts: the cGAN 
+										(see and schematic representation in Figure 3) th and an OOD detection method to 
 									</p>
 									<img src="images/cGANarch.jpg" alt="" />
 									<p>
