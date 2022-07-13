@@ -46,6 +46,7 @@
 										<ul>
 											<li><a href="wavegroupimpact.html">Wave group impacts</a></li>
 											<li><a href="tsunami_bore.html">Tsunami bore propagation through buildings</a></li>
+											<li><a href="ecoriverflow.html">Computational modelling of river flow</a></li>
 										</ul>
 									</li>
 								</ul>
@@ -92,24 +93,41 @@
 										<div class="col-8">
 											<h4><a href='wavegroupimpact.html'>Wave group impact forces on a cylinder </a></h4>
 										</div>
+										<div class="col-8">
+											<h4><a href='ecoriverflow.html'>Computational study of the flow of a river </a></h4>
+										</div>
 									</div>
 								</section>
 							</div>
 							<div class="col-9 col-44-mobile imp-mobile" id="content">
 								<article id="main">
 									<header>
-										<h2>1D numerical modelling of tsunami propagation through buildings</h2>
+										<h2>Numerical modelling of tsunami propagation through buildings</h2>
 										<p>
 											As part of my Master of Science in Civil Engineering thesis, I implemented a 1D finite-difference
 											scheme to solve the Saint-Venant equations and quicly evaluate the propagation of a tsunami bore through
 											buildings.
 										</p>
 									</header>
-									<a href="#" class="image featured"><img src="images/cGANarch.jpg" alt="" /></a>
 									<p>
-										Write more text here.
+										The lack of understanding on the bore propagation around buildings added to the tsunami events in last decades have generated 
+										the need of researching and increasing the knowledge in the field. Within my master thesis, a one-dimensional Saint-Venant model 
+										solved using a finite- difference scheme was studied and assessed, with the goal of being used to approximate bore flow on laboratory and real 
+										scenarios. The model was implemented by using Matlab_R2015b. The consistency and accuracy of the model was tested by comparing its 
+										results and the results obtained by similar models with the analytical dam-break solution and with dam-break experimental results. 
+										Figure 1 shows that the numerical results fit reasonably well the experimental ones. Therefore, it was concluded that the developed 
+										model was consistent and it adequately estimated the flow characteristics.
 									</p>
-
+									<img src="images/tsunami_Fig1.jpg" alt="" />
+									<p>
+										Figure 1: Comparison of the experimental with the numerical results.
+									</p>
+									<video width="800" height="600" controls>
+										<source src="images/20cm_25cm.mp4" type="video/mp4">
+									</video>
+									<p>
+										Video showing a dam-break experiment with only one building.
+									</p>
 									</section>
 								</article>
 							</div>
