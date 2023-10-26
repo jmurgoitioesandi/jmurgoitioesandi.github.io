@@ -35,6 +35,17 @@
       description:
         - Development of software tools to expand the capabilities of uncertainty quantification in deep learning. Conduct research to improve the understanding of MCMC sampling methods in Bayesian deep learning.
 
+- title: Conference presentations
+  type: time_table
+  contents:
+    - year: 2023
+      items: 
+        - Dasgupta, A., Murgoitio-Esandi, J., Ray, D., Oberai, A. A. (2023). Conditional score-based generative models for solving physics-based inverse problems. NeurIPS 2023 Workshop on Deep Learning and Inverse Problems. (Accepted)
+    - year: 2023
+      items: 
+        - Murgoitio-Esandi, J., Ray, D., Oberai, A. A. (2023). A novel conditional Wasserstein Generative Adversarial Network for inverse problems. U.S. National Congress of Computational Mechanics 17.
+
+
 - title: Honors and Awards
   type: time_table
   contents:
