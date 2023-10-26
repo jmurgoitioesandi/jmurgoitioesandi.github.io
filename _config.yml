@@ -167,10 +167,10 @@ collections:
   news:
     defaults:
       layout: post
-    output: true
+    output: false # CHANGED FROM TRUE!!!!!!!!!!!!!!!!!!!!!!!!!!!
     permalink: /news/:path/
   projects:
-    output: true
+    output: false # CHANGED FROM TRUE!!!!!!!!!!!!!!!!!!!!!!!!!!!
     permalink: /projects/:path/
 
 announcements:
