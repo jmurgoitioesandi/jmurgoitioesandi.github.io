@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Javier Murgoitio Esandi
     - name: Date of Birth
-      value: 14th March 1879
+      value: 9th May 1993
     - name: Languages
-      value: English, German
+      value: English, Spanish, Basque
 
 - title: Education
   type: time_table
@@ -15,18 +15,16 @@
       institution: University of Southern California
       year: 2020 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Research area: Scientific Machine Learning
+    - title: Master of Research, Urban Sustainability and Resilience
+      institution: University College London
+      year: 2017-2019
+    - title: Master of Science, Civil Engineering
+      institution: University College London
+      year: 2015-2016
+    - title: Bachelor of Engineering, Civil Engineering
+      institution: University of Basque Country
+      year: 2011-2015
 
 - title: Experience
   type: time_table
