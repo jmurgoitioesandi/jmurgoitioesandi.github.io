@@ -59,10 +59,16 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Poster award, 3rd price.",
+      "date": "2022",
+      "awarder": "Future Vision Forum",
+      "summary": "An adversarial deep learning approach to measure the biomechanical properties of the optic nerve head."
+    },
+    {
+      "title": "De Paepe-Willems Award.",
+      "date": "2019",
+      "awarder": "PIANC",
+      "summary": "Assessment of overtopping vertical river walls."
     }
   ],
   "certificates": [],
@@ -70,8 +76,12 @@
   "skills": [],
   "languages": [
     {
-      "language": "German",
+      "language": "Spanish",
       "fluency": "Native speaker"
+    },
+    {
+      "language": "Basque",
+      "fluency": "Fluent"
     },
     {
       "language": "English",
