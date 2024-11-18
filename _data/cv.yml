@@ -15,8 +15,8 @@
       institution: University of Southern California
       year: 2020 - Present
       description:
-        - Research area - Scientific Machine Learning
-    - title: Master of Research, Urban Sustainability and Resilience
+        - Research area - Generative AI
+    - title: Master of Research, Research Area - Ocean Engineering
       institution: University College London
       year: 2017-2019
     - title: Master of Science, Civil Engineering
@@ -35,6 +35,13 @@
       description:
         - Development of software tools to expand the capabilities of uncertainty quantification in deep learning. Conduct research to improve the understanding of MCMC sampling methods in Bayesian deep learning.
 
+- title: Patents
+  type: time_table
+  contents:
+    - year: Patent pending
+      items: 
+        - Systems and methods for identification of rare events in biological samples. Patent No. 63/716,845. Issued on November 6, 2024. Role - Co-inventor. Description - The patent relates to a rare event identification method that can be used to determine a patient’s disease state. The method is based on an unsupervised deep learning approach.
+
 - title: Conference presentations
   type: time_table
   contents:
@@ -44,6 +51,12 @@
     - year: USNCCM17
       items: 
         - Murgoitio-Esandi, J., Ray, D., Oberai, A. A. (2023). A novel conditional Wasserstein Generative Adversarial Network for inverse problems. U.S. National Congress of Computational Mechanics 17.
+    - year: WCCM24
+      items: 
+        - Murgoitio-Esandi, Dasgupta, A., Ramaswamy H., Foo, K., Kennedy, B., Li, R., Zhou, Q., Oberai, A. A. (2024). Inferring mechanical properties of tissue with quantified uncertainty using conditional generative models. World Congress of Computational Mechanics 2024.
+    - year: WCCM24
+      items: 
+        - Oberai, A. A., Dasgupta A., Murgoitio-Esandi, J., Ramaswamy, H. (2024). Conditional diffusion models for solving physics-based inverse problems. World Congress of Computational Mechanics 2024.
 
 
 - title: Honors and Awards
@@ -51,7 +64,7 @@
   contents:
     - year: 2022
       items: 
-        - Poster award, 3rd price. Future Vision Forum.
+        - Research award, 3rd price. Future Vision Forum.
     - year: 2019
       items: 
         - De Paepe-Willems Award, 2nd price. PIANC.
