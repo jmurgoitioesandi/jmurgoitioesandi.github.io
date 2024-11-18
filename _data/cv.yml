@@ -36,11 +36,7 @@
 - title: Patents
   type: list
   contents:
-- title: Systems and methods for identification of rare events in biological samples
-      patent_no: 63/716,845
-      issued_date: November 6, 2024
-      role: Co-inventor
-      description: The patent relates to a rare event identification method that can be used to determine a patient’s disease state. The method is based on an unsupervised deep learning approach.
+    - Systems and methods for identification of rare events in biological samples. Patent No. 63/716,845. Issued on November 6, 2024. Role - Co-inventor. Description - The patent relates to a rare event identification method that can be used to determine a patient’s disease state. The method is based on an unsupervised deep learning approach.
 
 - title: Conference presentations
   type: time_table
